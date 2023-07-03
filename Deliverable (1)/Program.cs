@@ -24,7 +24,6 @@ namespace Deliverable__1_
                     }
                 }
 
-
                 //To check if input is an either even or odd and loop until acceptable input 
                 while (true)
                 {
@@ -37,7 +36,6 @@ namespace Deliverable__1_
                     }
                 }
                 
-
                     //If even series is chosen
                     if (series == "even")
                     {
@@ -59,7 +57,6 @@ namespace Deliverable__1_
                             Console.WriteLine(i);
                         }
                     }
-    
                 
             }
             //To catch any erroneous inputs from the user
